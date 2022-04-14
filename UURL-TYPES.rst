@@ -55,14 +55,24 @@ facebook
 
 github
 ------
-``github`` for Github-based users:
+``github`` for Github users:
 
-- The default repository is ``https://github.com``
+- The default site is ``https://github.com``
 - Examples::
 
       usr:github/octocat
       usr:github/jpinz?fullname=Julian%20Pinzer
 
+
+linkedin
+------
+``linkedin`` for Linkedin users:
+
+- The default site is ``https://linkedin.com``
+- Examples::
+
+      usr:linkedin/jpinzer
+      usr:linkedin/satyanadella
 
 npm
 ---
